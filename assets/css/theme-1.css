@@ -25,6 +25,9 @@
 
 			}
 		}
+	#form{
+		margin-left:400px;
+	}
 	.wbm{color:#5e8ecc !important;}
 	#pic1{height:400px; width:400px; padding-right:50px;padding-left:50px;}
 	#pic2{height:400px; width:300px;}
