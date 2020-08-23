@@ -18,7 +18,7 @@
 		transition:all 0.4s ease-in-out
 		background-color: #5e8ecc;
 		}
-    #read-more1{color:#5e8ecc;}#read-more2{color:#5e8ecc;}#read-more3{color:#5e8ecc;}#read-more4{color:#5e8ecc;}#read-more5{color:#5e8ecc;}#read-more6{color:#5e8ecc;}#read-more7{color:#5e8ecc;}
+    #read-more1{color:#5e8ecc;}#read-more2{color:#5e8ecc;}#read-more3{color:#5e8ecc;}#read-more4{color:#5e8ecc;}#read-more5{color:#5e8ecc;}#read-more6{color:#5e8ecc;}#read-more7{color:#5e8ecc;}#read-more8{color:#5e8ecc;}
 	@media (prefers-reduced-motion: reduce){
 		.btn{
 			transition:none
